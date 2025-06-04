@@ -16,6 +16,11 @@
 			path = Connect3;
 			sourceTree = "<group>";
 		};
+		74C2D7F62DEF1029004C9A7D /* Backend */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Backend;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		74A6DE932DEF0F0100ACFDDE = {
 			isa = PBXGroup;
 			children = (
+				74C2D7F62DEF1029004C9A7D /* Backend */,
 				74A6DE9E2DEF0F0100ACFDDE /* Connect3 */,
 				74A6DE9D2DEF0F0100ACFDDE /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				74A6DE9E2DEF0F0100ACFDDE /* Connect3 */,
+				74C2D7F62DEF1029004C9A7D /* Backend */,
 			);
 			name = Connect3;
 			packageProductDependencies = (
